@@ -7,3 +7,4 @@
 - 아이템 삭제
 
 # 시연 영상
+https://tlswodnr427.tistory.com/18
